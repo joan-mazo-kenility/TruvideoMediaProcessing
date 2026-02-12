@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "TruvideoSdkMediaProcessing",
             url: "https://github.com/joan-mazo-kenility/TruvideoMediaProcessing/releases/download/0.0.2/TruvideoSdkMediaProcessing.xcframework.zip",
-            checksum: "f73892afdfce5d26992d5ff2532b349e9dbf16c7a650ef6416eebde3eaaecb3f"
+            checksum: "677f1879b5a9898ea4c38509364706d0408ae7c6e0f08b7a7f5983578ff052f4"
         )
     ]
 )
